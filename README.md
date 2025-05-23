@@ -1,2 +1,2 @@
 # SQl-DATA-EXPLORATION-
-This project is made by me in MS SQL Server. In this project I explorate data of Covid Deaths &amp; vacination 
+Conducted an in-depth data exploration project on COVID-19 deaths and vaccinations using Microsoft SQL Server. The analysis involved examining total cases, deaths, and infection rates by country and continent, as well as calculating death percentages relative to cases and population. Additionally, the project analyzed the global vaccination progress and the relationship between population and vaccinations. Key SQL skills used included Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Views, and Data Type Conversion for data analysis and creating views for future visualizations.​     
